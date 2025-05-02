@@ -10,7 +10,10 @@ This project analyzes the evolution of **renewable and fossil energy production 
 - Computed the **Pearson correlation coefficient** between fossil and renewable energy.
 - Found a strong **positive correlation (0.85)**, indicating simultaneous growth.
 - Compared **energy consumption vs production** to analyze .
-  
+
+## **KMeans clusterization**
+- I clustered the years based on the year-over-year changes in renewable energy production, identifying periods with similar growth patterns.
+
 ## **Time Series Forecasting with Prophet**
 - Used **META Prophet** to forecast **renewable energy trends**.
 - Trained a model on historical data and predicted future energy consumption.
