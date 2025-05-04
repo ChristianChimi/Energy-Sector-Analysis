@@ -1,6 +1,6 @@
 # Renewable vs Fossil Energy Analysis
 
-## Project Overview
+## **Overview**
 This project analyzes the evolution of **renewable and fossil energy production and consumption** over time, using visualizations and predictive modeling techniques. The goal is to **understand the trends, correlations, and future projections** for energy transition.
 
 ## **EDA and Visualization**
