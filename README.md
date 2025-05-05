@@ -15,8 +15,9 @@ This project analyzes the evolution of **renewable and fossil energy production 
     - I clustered the years based on the year-over-year changes in renewable energy production, identifying periods with similar growth patterns.
 
 ## **Time Series Forecasting with Prophet**
-    - Used META Prophet to forecast renewable energy trends.
-    - Trained a model on historical data and predicted future energy consumption.
+    - Used META Prophet to forecast renewable energy trends_
+        - Trained a model on historical data and predicted future energy production.
+        - Cross validation: MAPE under 10%, low RMSE and MAE. 
 
 ## **Technologies Used**
 - **Python**, **Pandas**, **Matplotlib**, **Prophet**
