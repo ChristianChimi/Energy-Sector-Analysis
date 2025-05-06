@@ -1,5 +1,4 @@
 # Renewable vs Fossil Energy Analysis
-
 ## **Overview**
 This project analyzes the evolution of renewable and fossil energy production and consumption over time, using visualizations and predictive modeling techniques. The goal is to understand the trends, correlations, and future projections for energy transition.
 
@@ -19,13 +18,13 @@ This project analyzes the evolution of renewable and fossil energy production an
   - Trained a model on historical data and predicted future energy production.
   - Cross validation: MAPE under 10%, low RMSE and MAE. 
 
-## **Technologies Used**
-- **Python**, **Pandas**, **Matplotlib**, **Prophet**
-
 ## **Key Insights**
 - As a counterintuitive resul, there is a positive correlation between fossil and renewable energy production because the enery demand is globally growing.
 - However, renewable energy consuption is growing more than fossils fuel one.
 - The Green energy (Renewable + Nuclear) has grown from 7 in 1973 to 20-22% of the production in 2022.
+
+## **Technologies Used**
+- **Python**, **Pandas**, **Matplotlib**, **Prophet**
 
 ## **Conclusions**
 This project provides a data-driven perspective on the global energy transition, helping to understand future sustainability challenges.
